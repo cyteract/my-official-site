@@ -67,6 +67,21 @@
     margin-left: 155px;
 }
 
+.para2{
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
+
+.para3{
+    margin-right: 20px;
+    margin-top: -20px;
+    margin-left: 20px;
+
+}
+
+
+
 .child{
     border: solid none;
     background: white;
